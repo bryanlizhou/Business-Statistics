@@ -7,7 +7,7 @@ This is my approach in learning statistics and R at the same time.
 
 I will continue to update this folder on monthly basis.
 
-If you find any errors or in the script, let me know.
+If you find any errors in the script, let me know.
 
 Send me an email explaining what the problem is and I will gladly fix it.
 
