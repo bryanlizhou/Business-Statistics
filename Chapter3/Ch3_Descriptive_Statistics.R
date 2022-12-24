@@ -62,8 +62,12 @@ summary(d)
 set1 <- c(6, 2, 4, 9, 1, 3, 5)
 
 # a. Find the range
+# The range() function only return the min and max value.
+
 
 range(set1)
+
+# The range is 8.
 
 # b. Find the mean absolute deviation
 
